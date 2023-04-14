@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1. Hola Crear un programa que dado un número determine si es par o impar.
+=======
+1. HOLA Crear un programa que dado un número determine si es par o impar.
+>>>>>>> 3b03889a4d26da68caa349ae20d29e0e034f87f6
 
     Scanner read = new Scanner (System.in);
     System.out.println("Ingresa un numero entero");
