@@ -1,4 +1,4 @@
-1. Crear un programa que dado un número determine si es par o impar.
+1. Hola Crear un programa que dado un número determine si es par o impar.
 
     Scanner read = new Scanner (System.in);
     System.out.println("Ingresa un numero entero");
